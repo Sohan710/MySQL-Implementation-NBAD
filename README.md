@@ -4,7 +4,7 @@
 ## Instructions for Assignment 09
 
 Please follow along with video 09b - MySQL Implementation.
-&& Make sure that the "signup" functionality is implemented correctly and is working.
+Make sure that the "signup" functionality is implemented correctly and is working.
 You can test it using Postman.
 
 ## Take 3 screenshots:
