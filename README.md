@@ -1,6 +1,5 @@
-# MySQL-Implementation-NBAD
 # ITCS NBAD 5166 - Assignment Week 09
-# Sohan Birajdar - 801298151
+## Sohan Birajdar - 801298151
 
 ## Instructions for Assignment 09
 
